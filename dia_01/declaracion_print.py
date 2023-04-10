@@ -1,4 +1,4 @@
-print("hola mundo");
+print("Hola Mundo");
 print("Esta es una linea\nY esta es otra linea") # Esto es para que escriba una linea debajo de la otra /n
 print("\tEstaes la tercera linea") # \t es para dejar una sagria 
 print("this ins\'t a number")
